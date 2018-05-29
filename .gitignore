@@ -1,3 +1,7 @@
+#ignore directory
 node_modules
 .vscode
-package-lock.json
+
+#ignore file
+*.json
+!package.json
